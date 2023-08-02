@@ -1,6 +1,6 @@
 ---
 title: "My First Post"
-date: 202-08-02
+date: 2023-08-02
 ---
 <h1>Today's Post</h1>
 <h2>Lorem Ipsum</h2>
