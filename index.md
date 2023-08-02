@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Home
 ---
 <h1>Silvia Preston first GitHub Page</h1>
 <h2>Heading 2</h2>
